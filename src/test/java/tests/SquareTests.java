@@ -18,7 +18,7 @@ public class SquareTests {
 
   @Test
   public void testPositive() {
-    assertThat(calc.calculate(2.0, 3.0), equalTo(6.0));
+    assertThat(calc.calculate(2.0, 3.0), equalTo(7.0));
   }
 
 }
