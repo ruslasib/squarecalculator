@@ -11,7 +11,7 @@
         <classes>
             <class name="tests.SquareTests">
                 <methods>
-                    <include name="test2" />
+                    <include name="test3" />
                 </methods>
             </class>
         </classes>
